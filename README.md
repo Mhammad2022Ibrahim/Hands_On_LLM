@@ -8,10 +8,10 @@ Welcome to the **Hands-On LLM** repository — a practical series of experiments
 
 ### 1. Chat Templates with Real-World Examples
 
-**📓 Notebook**: [`chatTemplatesWithRealWorldExamples.ipynb`](./chatTemplatesWithRealWorldExamples.ipynb)  
-**📊 Project**: Demonstrates how to use Hugging Face `ChatTemplate` to structure chat-style messages for open LLMs. The notebook includes real-world examples such as customer support dialogs, and assistant-style prompts.  
-**💬 Focus**: Prompt formatting and chat template handling with different models (like SmolLM2, Mistral).  
-**🧠 Tools**: Hugging Face Transformers, ChatTemplate, Open LLMs  
+**Notebook**: [`chatTemplatesWithRealWorldExamples.ipynb`](./chatTemplatesWithRealWorldExamples.ipynb)  
+**Project**: Demonstrates how to use Hugging Face `ChatTemplate` to structure chat-style messages for open LLMs. The notebook includes real-world examples such as customer support dialogs, and assistant-style prompts.  
+**Focus**: Prompt formatting and chat template handling with different models (like SmolLM2, Mistral).  
+**Tools**: Hugging Face Transformers, ChatTemplate, Open LLMs  
 
 ---
 
