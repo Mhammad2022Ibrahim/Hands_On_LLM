@@ -15,7 +15,7 @@ Welcome to the **Hands-On LLM** repository — a practical series of experiments
 
 ---
 
-### 2. Supervised Fine-Tuning (SFT) with QLoRA
+### 2. Supervised Fine-Tuning (SFT)
 
 **Notebook**: [`SupervisedFineTuning(SFT).ipynb`](./SupervisedFineTuning(SFT).ipynb)  
 **Project**:  Fine-tune the [`HuggingFaceTB/SmolLM2-135M`](https://huggingface.co/HuggingFaceTB/SmolLM2-135M) model using the SFTTrainer from the trl library.  
