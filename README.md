@@ -26,5 +26,20 @@ Welcome to the **Hands-On LLM** repository — a practical series of experiments
 
 ---
 
+### 3. LoRA (Low-Rank Adaptation) with LLaMA-2
+
+**Notebook**: [`LoRA(Low_Rank_Adaptation).ipynb`](./LoRA(Low_Rank_Adaptation).ipynb)  
+**Dataset**: [`HuggingFaceTB/smoltalk`](https://huggingface.co/datasets/HuggingFaceTB/smoltalk) and [`bigcode/the-stack-smol`](https://huggingface.co/datasets/bigcode/the-stack-smol)  
+**Base Model**: [`HuggingFaceTB/SmolLM2-135M`](https://huggingface.co/HuggingFaceTB/SmolLM2-135M)    
+**Objective**: Perform parameter-efficient fine-tuning with LoRA adapters using QLoRA (4-bit quantization).  
+**Tools**: PEFT, Transformers, TRL, BitsAndBytes, Hugging Face Hub  
+**Highlights**:
+- Efficient training on consumer-grade hardware
+- Reduces GPU memory requirements with 4-bit precision
+- Modular adapter training with LoRA
+
+---
+
+
 
 
