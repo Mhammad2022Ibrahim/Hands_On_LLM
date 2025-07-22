@@ -3,3 +3,6 @@ help.txt
 setup_env.py
 
 llm_env
+
+.vscode/
+__pycache__/
