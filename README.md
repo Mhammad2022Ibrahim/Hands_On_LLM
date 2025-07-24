@@ -40,6 +40,17 @@ Welcome to the **Hands-On LLM** repository — a practical series of experiments
 
 ---
 
+### 4. Fine-tuning a Causal LM with GRPO
+
+**Notebook**: [`Fine_tuneModelwithGRPO.ipynb`](./Fine_tuneModelwithGRPO.ipynb)  
+**Dataset**: [`mlabonne/smoltldr`](https://huggingface.co/datasets/mlabonne/smoltldr)  
+**Fine-tuned Model**: [`Mhammad2023/SmolGRPO-135M`](https://huggingface.co/Mhammad2023/SmolGRPO-135M)  
+**Highlights**:
+- Custom training using the **GRPO** approach
+- Small, efficient model (~135M parameters)
+
+---
+
 
 
 
